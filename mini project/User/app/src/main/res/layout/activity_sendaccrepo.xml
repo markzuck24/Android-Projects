@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#89043e"
+    tools:context="com.example.android.user.sendaccrepo">
+
+    <ImageView
+        android:id="@+id/i1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/kritesh"
+        android:layout_marginTop="37dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/textView8"
+        android:layout_alignEnd="@+id/textView8" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Name:           Kritesh R Sharma"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="46dp"
+        android:paddingLeft="20dp"
+        android:layout_below="@+id/i1"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Emergency Contact"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. Anushree             9856152484"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="128dp"
+        android:layout_marginTop="24dp"
+        android:layout_below="@+id/textView8"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/sn"
+        android:layout_width="217dp"
+        android:layout_height="42dp"
+        android:text="Send Notification"
+        android:onClick="noti"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="265dp"
+        android:layout_below="@+id/textView11"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2. Pallavi                  9856545751"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="163dp"
+        android:layout_below="@+id/textView9"
+        android:layout_alignLeft="@+id/textView9"
+        android:layout_alignStart="@+id/textView9"
+        android:layout_marginTop="14dp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3. Apurva                 9956879548"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="200dp"
+        android:layout_below="@+id/textView10"
+        android:layout_alignLeft="@+id/textView10"
+        android:layout_alignStart="@+id/textView10"
+        android:layout_marginTop="16dp" />
+</RelativeLayout>

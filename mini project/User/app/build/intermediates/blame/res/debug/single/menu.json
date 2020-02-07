@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\ANUSHREE\\AndroidStudioProjects\\User\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_police_drawer.xml",
+        "source": "C:\\Users\\ANUSHREE\\AndroidStudioProjects\\User\\app\\src\\main\\res\\menu\\activity_police_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\RCOEM\\V sem\\mini project\\User\\app\\build\\intermediates\\res\\merged\\debug\\menu\\police.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\RCOEM\\V sem\\mini project\\User\\app\\src\\main\\res\\menu\\police.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\RCOEM\\V sem\\mini project\\User\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test_navigation.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\RCOEM\\V sem\\mini project\\User\\app\\src\\main\\res\\menu\\test_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\RCOEM\\V sem\\mini project\\User\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main2_drawer.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\RCOEM\\V sem\\mini project\\User\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\RCOEM\\V sem\\mini project\\User\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main2.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\RCOEM\\V sem\\mini project\\User\\app\\src\\main\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\RCOEM\\V sem\\mini project\\User\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_police_drawer.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\RCOEM\\V sem\\mini project\\User\\app\\src\\main\\res\\menu\\activity_police_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANUSHREE\\AndroidStudioProjects\\User\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_test_navigation_drawer.xml",
+        "source": "C:\\Users\\ANUSHREE\\AndroidStudioProjects\\User\\app\\src\\main\\res\\menu\\activity_test_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANUSHREE\\AndroidStudioProjects\\User\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test_navigation.xml",
+        "source": "C:\\Users\\ANUSHREE\\AndroidStudioProjects\\User\\app\\src\\main\\res\\menu\\test_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANUSHREE\\AndroidStudioProjects\\User\\app\\build\\intermediates\\res\\merged\\debug\\menu\\police.xml",
+        "source": "C:\\Users\\ANUSHREE\\AndroidStudioProjects\\User\\app\\src\\main\\res\\menu\\police.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\RCOEM\\V sem\\mini project\\User\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_test_navigation_drawer.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\RCOEM\\V sem\\mini project\\User\\app\\src\\main\\res\\menu\\activity_test_navigation_drawer.xml"
+    }
+]

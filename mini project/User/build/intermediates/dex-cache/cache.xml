@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\c669a112e79b67eef33d9e97980ea8a76ff2ece3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\classes_a6e43484f751cd3a1b2ccbd84053f5b6f921a3e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_80a7eb9759a94134c3f73da51f50415cfec947ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\8b87d8a60a3bb2320d0a4e88cc003ab205bc1f1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\classes_56be2b8db91c3fe7b7c1b602f9d8ea45ca746a49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\d93cad7264fb9fb7b09ca09b3edfbad903e085ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\classes_449907bf132ad2774f7d7dc6df3f391c204512d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\376a3d1e933b9b81d9686e1780ff87613028ff45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\classes_8e3394f2fdc47361b3c416bed94d0001ac066ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\51d1d50fc62ae81c585835e91359c7481aee16e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\classes_980733f7c3275134fc9da0aea4a822bccbdc8482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\03fd2829c6fbba5fb36d8f6fcfb787d0b4a4936e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\classes_d23ecd20130b99c2647acc99cb2691f503abd179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\08845b2a46fca90a1576fa5c6211bdd1c1a90e6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\classes_58537097aa35a6e0a2a9e43bca94257866f389be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\2e4a6fdbe28696f9267e2abe86ef5e79d8f1c8da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\classes_ec67876733d4d39f643e04f5f065ccdc06573c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\6022b86a631a41e2ab70283d5768675143b3e8e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\classes_c6311c9edcc4eeec0a436f65c4f612728d3f92ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\e6d03ba361d6a07a1bec496d617d5c7fee14927c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\classes_5af3b7a3824ef3d5eecd79533e48a73e226b9c14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\0a1889780310934518bcdddddf96b72597454c58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\classes_999de00a01691e47d6ab31c91df0c6a047ef1212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_765acbcefc1c012573eba0d025a56ceb36568ae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\8906670a64314f23d59d7840375ca55d8d67db6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\classes_d027fc700d0ed0a087b62ce91d38ad7b311e5e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\6556bdde115896bfd2d7bb4328c310a15e5bedbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Admin\Desktop\RCOEM\V sem\mini project\User\app\build\intermediates\pre-dexed\debug\classes_4d0199d3462543a7a2c4edacc7e97478a54ca5b6.jar" />
+    </item>
+
+</items>

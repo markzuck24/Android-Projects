@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#89043e"
+    tools:context="com.example.android.project.ViewProfile">
+
+    <ImageView
+        android:id="@+id/i1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/police2"
+        android:layout_marginTop="14dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:text="Name:"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText5"
+        android:layout_above="@+id/editText"
+        android:textColorHint="#FFFFFF"
+        android:hint="Pallavi Rakhade"
+        android:layout_alignLeft="@+id/editText"
+        android:layout_alignStart="@+id/editText" />
+
+    <TextView
+        android:id="@+id/t2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/t1"
+        android:paddingLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#FFFFFF"
+        android:text="Area assigned:"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/t2"
+        android:hint="Nagpur"
+        android:textColorHint="#FFFFFF"
+        android:layout_below="@id/t1"
+        android:id="@+id/editText" />
+
+
+    <TextView
+        android:id="@+id/t3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/t2"
+        android:textColor="#FFFFFF"
+        android:paddingLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Contact no.:"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/t2"
+        android:hint="+91 9867543567"
+        android:textColorHint="#FFFFFF"
+        android:layout_toRightOf="@+id/t2"
+        android:layout_toEndOf="@+id/t2"
+        android:id="@+id/editText2" />
+
+
+    <TextView
+        android:id="@+id/t4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:text="Age:"
+
+        android:textSize="20dp"
+        android:layout_alignBaseline="@+id/editText3"
+        android:textColor="#FFFFFF"
+        android:layout_alignBottom="@+id/editText3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/t3"
+        android:hint="20"
+        android:textColorHint="#FFFFFF"
+        android:layout_alignLeft="@+id/editText2"
+        android:layout_alignStart="@+id/editText2"
+        android:id="@+id/editText3" />
+
+
+    <TextView
+        android:id="@+id/t5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:text="Email id:"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"
+        android:textColorHint="#FFFFFF"
+        android:layout_alignBaseline="@+id/editText4"
+        android:layout_alignBottom="@+id/editText4"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/t4"
+        android:layout_alignLeft="@+id/editText3"
+        android:layout_alignStart="@+id/editText3"
+        android:textColorHint="#FFFFFF"
+        android:hint="rakhade@rknec.edu"
+        android:id="@+id/editText4" />
+
+    <Button
+        android:id="@+id/bep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="edit"
+        android:background="#d1acb9"
+        android:layout_gravity="center"
+        android:textColorHint="#FFFFFF"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/editText4"
+        android:layout_alignStart="@+id/editText4"
+        android:layout_marginBottom="17dp" />
+
+</RelativeLayout>

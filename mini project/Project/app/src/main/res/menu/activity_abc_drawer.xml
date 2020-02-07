@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_vp"
+            android:title="View Profile " />
+
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_rateus"
+            android:title="Rate us" />
+        <item
+            android:id="@+id/nav_rp"
+            android:title="Report Problem" />
+        <item
+            android:id="@+id/nav_feedbk"
+
+            android:title="Feedback" />
+        <item
+            android:id="@+id/con"
+            android:title="Contact us"
+
+            />
+    </group>
+    <item
+
+
+        android:title="View records">
+        <menu>
+
+                <item
+                    android:id="@+id/vcd"
+                    android:title="View Challan Details" />
+                <item
+                    android:id="@+id/vd"
+                    android:title="View Documents" />
+        </menu>
+    </item>
+
+
+</menu>

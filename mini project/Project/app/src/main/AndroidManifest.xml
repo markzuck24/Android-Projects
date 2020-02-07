@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.project">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Login"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".navDa1"
+            android:label="@string/title_activity_nav_da1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ViewProfile"
+            android:label="Edit Profile" />
+        <activity
+            android:name=".ReportAcci"
+            android:label="Report Accident" />
+        <activity
+            android:name=".VictimInfo"
+            android:label="Send Notification" />
+        <activity
+            android:name=".ChallanDetails"
+            android:label="Challan Details" />
+        <activity
+            android:name=".Documents"
+            android:label="Documents" />
+        <activity
+            android:name=".abc"
+            android:label="@string/title_activity_abc"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".aaa"
+            android:label="@string/title_activity_aaa"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".save1"></activity>
+    </application>
+
+</manifest>
